@@ -25,3 +25,7 @@ def calc(a,b):
 
 summ = calc(5,8)
 print(summ)
+
+value = 11
+if (value == 15) : print ("Noooo")
+print ("Hi")
